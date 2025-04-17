@@ -25,8 +25,8 @@ Easily share files over local networks using a simple web interface.
 
 1. Clone the repository or download the `uploadServer.js` file:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/freezin-fire/file-upload-js.git
+    cd file-upload-js
     ```
 
 2. Run the server:
